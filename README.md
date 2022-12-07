@@ -1,0 +1,2 @@
+# magicTrick
+bomboş bir sihir
